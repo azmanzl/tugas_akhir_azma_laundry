@@ -1,0 +1,60 @@
+
+/* page login */
+.card{
+    margin-top: 15%;
+}
+.content-section{
+   background: linear-gradient(150deg, #c6dcf1 40%, #92b3ee 60%);
+}
+.title{
+    color: #204a8a;
+}
+/* background all */
+body{
+         background: linear-gradient(150deg, #c6dcf1 40%, #92b3ee 60%);
+}
+/* navbar */
+.custom-nav{
+    background: #5988cf;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.nav-item a{
+    color: aliceblue;
+}
+.nav-link.active i{
+    color: aliceblue;
+}
+.container-fluid a{
+    font-family: sans-serif;
+}
+/* card dashboard */
+.card.dashboard{
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(6, 35, 116, 0.2);
+}
+.card-icon{
+    font-size: 4rem;
+    color: #5988cf;
+}
+.card-title{
+    font-size: 1.5rem;
+}
+.card-body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #0c254e;
+}
+h3{
+    color: #0c254e;
+}
+h4{
+    text-align: center;
+    color: #0c254e;
+}
+hr{
+    color: #0c254e;
+}
